@@ -1,2 +1,2 @@
-# Machine Learning Summer School
-[IMLA](https://imla.hs-offenburg.de/veranstaltungen/summer-school-machine-learning-2019/)
+# Machine Learning Summer School 2019
+[Institute for Machine Learning and Analytics (IMLA)](https://imla.hs-offenburg.de/veranstaltungen/summer-school-machine-learning-2019/), [Hochschule Offenburg, Germany](https://www.hs-offenburg.de/).
